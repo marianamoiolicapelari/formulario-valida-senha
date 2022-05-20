@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o Projeto
 Este formulário para valição de senha foi criado com HTML e CSS responsivo. Usei o Java Script para implementar as funções onde verifica se os dados
-estão corretos e então retorna a validação para que os dados sejam enviados para o destino.
+estão corretos e então retorna a validação para que os mesmos sejam enviados para o destino.
 
 ## 🎨 Layout
 
