@@ -6,7 +6,7 @@ estão corretos e então retorna a validação para que os mesmos sejam enviados
 
 ## 🎨 Layout
 
-![image](https://github.com/marianamoiolicapelari/formulario-valida-senha/blob/main/Layoult%20formul%C3%A1rio.png))
+![image](https://github.com/marianamoiolicapelari/formulario-valida-senha/blob/main/Layoult%20formul%C3%A1rio%202.png)
 
 ## 🛠 Tecnologias
 
